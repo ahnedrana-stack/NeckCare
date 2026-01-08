@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://extraordinary-gecko-e0afa2.netlify.app/sitemap.xml
